@@ -1,0 +1,62 @@
+body{
+    font-family: 'Syncopate', sans-serif;
+}
+
+
+
+.navv {padding: 5px 10px 5px;
+    vertical-align: 30px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+
+h1 {
+    font-size: 50px;
+    text-align: left;
+    padding: 5px 0px 30px 10px;
+}
+
+footer {text-align: center;
+}
+
+nav {text-align: right;
+    padding: 0px 5px;}
+
+#coverart {
+    height: 700px;
+    padding: 10px 0px 10px 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Syncopate', sans-serif;
+}
+
+header {
+    background:linear-gradient(#696969, #000000);
+    display: block;
+    width: 100%   
+}
+
+.genres {text-align: center;}
+
+.clicker{
+    height: 250px;
+    width: 200px;
+    background-color: #4d4d4d;
+    outline-offset: 5px;
+    padding: 50px;
+    font-size: 15px;
+    margin: 15px;
+}
+
+.genres {font-size: 20px;
+    color: white;
+    font-weight: bolder;
+}
